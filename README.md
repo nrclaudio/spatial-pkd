@@ -9,8 +9,7 @@ figures for the Spatial PKD manuscript. Assets are grouped by figure.
 - `scripts/fig0x/` &ndash; Python helpers called from the notebooks
   (segmentation, cyst perimeter extraction, distance-model training utilities).
 - `data/` &ndash; *(planned)* location for large external resources
-  (SpaceRanger outputs, single-cell atlases, LIANA tensors, etc.). Populate
-  this directory as you stage the required inputs later this week.
+  (SpaceRanger outputs, single-cell atlases, LIANA tensors, etc.). 
 - `env/` &ndash; *(planned)* location for environment descriptors (conda YAML,
   requirements files) once the analysis stack is finalised.
 
