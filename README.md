@@ -17,3 +17,8 @@ figures for the Spatial PKD manuscript. Assets are grouped by figure.
 ## Access to data matrix
 Download `spatial_processed.h5ad` from
 [Zenodo record 17279214](https://zenodo.org/records/17279214)
+
+## Access to MKA and the modified MKA
+The Mouse Kidney Atlas (MKA) and the modified MKA collections (injury,
+fibrosis, and PKD-enriched cohorts) are hosted in the dedicated
+[nrclaudio/MKA](https://github.com/nrclaudio/MKA) repository. 
