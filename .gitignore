@@ -6,4 +6,4 @@ __pycache__/
 *.swo
 .ipynb_checkpoints/
 /data/
-/env/
+
