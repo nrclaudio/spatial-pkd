@@ -8,7 +8,7 @@ figures for the Spatial PKD manuscript. Assets are grouped by figure.
   `Fig02_a.ipynb`, etc.).
 - `scripts/fig0x/` &ndash; Python helpers and analysis scripts.
 - `data/` &ndash; *(planned)* location for external resources. 
-- `env/` &ndash; *(planned)* location for environment descriptors (conda YAML,
+- `env/` &ndash; location for environment descriptors (conda YAML,
   requirements files).
 
 ## Access to data matrix
